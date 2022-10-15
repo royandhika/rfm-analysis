@@ -1,11 +1,11 @@
-# Is the mushroom edible?
+# RFM Analysis
 Roy Andhika Satria, [satriaroy70@gmail.com](mailto:satriaroy70@gmail.com).
 
-## Customer Segmentation using RFM
-Pengelompokan customer berdasarkan kebiasaan belanjanya
-[R] Recency     = Berapa lama sejak customer melakukan transaksi (tanggal sekarang - tanggal terakhir transaksi)  
-[F] Frequency   = Berapa kali customer melakukan transaksi (jumlah transaksi atas 1 customer)  
-[M] Monetary    = Total uang yang dibelanjakan customer
+## Customer Segmentation using RFM 
+Pengelompokan customer berdasarkan kebiasaan belanjanya  
+[*R*] Recency     = Berapa lama sejak customer melakukan transaksi (tanggal sekarang - tanggal terakhir transaksi)  
+[*F*] Frequency   = Berapa kali customer melakukan transaksi (jumlah transaksi atas 1 customer)  
+[*M*] Monetary    = Total uang yang dibelanjakan customer
 
 ## Dataset
 Data bersumber dari [Kaggle](https://www.kaggle.com/code/nazlisener/customer-segmentation-using-rfm/notebook).  
